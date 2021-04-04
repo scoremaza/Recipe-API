@@ -8,7 +8,7 @@ Recipe api source code
 * Postgresql is utilize for the database
 * Django.Test TestCase is utilize for implementation of TDD (Test Driven Development)
 * Flake8 is utilize to create PEP 8 styling guide lines checking
-* Travis CI is utilize to check if your tests pass before upload to GitHub
+* Travis CI is utilize to check if your tests pass before uploading to GitHub
 
 ### Installation
 Note this will require that you have an working version of docker in you system already installed. Now if you do not have it installed you can go to [Docker](https://docs.docker.com/). Here you will have the type of installation that would fit your system's requirement. Once you have a copy of Docker downloaded and installed in your system, follow these steps. Make a request for a pull for Recipe-API in git using either your terminal, command window, or you can just use the bash shell given by GitHub. With your selection made enter in these instructions to retieve your fork.
