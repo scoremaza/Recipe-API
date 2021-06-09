@@ -32,7 +32,11 @@ cd Reicpe-API
 cmd
 cd Recipe_API
 ```
-Once you are in the   
+Once you are in the directory set up your virtual environment by typing in the cmd or bash these commands.
+```shell 
+bash
+
+```
 
 
 
